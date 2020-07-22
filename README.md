@@ -18,4 +18,5 @@
 
 ### Params
 `data-video_link` : link of your video
+
 `data-video_type` : type of the background: Normal or hero (hero means: the video will be shown in the top of the page)
